@@ -27,3 +27,9 @@ Quotes: use > sign
 quotes can be multi-line:
 >quote
 quote<
+
+## Code blocks
+
+to make a code block in your text, use (and close with) three back-ticks
+
+```code```
