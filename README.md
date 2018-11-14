@@ -76,3 +76,5 @@ Link to document: [link name](link)
 Image: put exclamation mark before link: ![image name which is optional](image link)
 
 by default, image will fill up width of page.
+
+Can link to other folders with forward slashes. eg 'please read [Results](/results/) for up-to-date results (must spell file names correctly, including caps)
