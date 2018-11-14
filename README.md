@@ -68,3 +68,11 @@ checklists: minus space opensquarebracket space closesquarebracket
 
 To tick, fill with x
 - [x] point
+
+
+## Links and images
+Link to document: [link name](link)
+
+Image: put exclamation mark before link: ![image name which is optional](image link)
+
+by default, image will fill up width of page.
