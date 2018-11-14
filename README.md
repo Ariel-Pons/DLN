@@ -30,6 +30,8 @@ quote<
 
 ## Code blocks
 
-to make a code block in your text, use (and close with) three back-ticks
+to make a code block in your text, use (and close with) three back-ticks. can be multi-line.
 
 ```code```
+
+can also have codes withing text with just one back-tick `example`
