@@ -1,4 +1,4 @@
 # General notes
 Lab log:
 
-[Day_1)(day1.md)
+[Day_1](day1.md)
