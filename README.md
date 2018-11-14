@@ -50,6 +50,21 @@ Can make simple tables with pipe symbol and minus signs:
 2. third item
 
 to do sub item, lead point with 4 spaces
+
 1. first item
-    2.pointer
-2. second item
+    1. pointer
+1. second item
+
+
+Unordered lists: use asterisk or minus sign
+* item 1
+* item 2
+* item 3
+Sub-listing follows same pattern
+
+checklists: minus space opensquarebracket space closesquarebracket
+- [ ] point 1
+- [ ] point 2
+
+To tick, fill with x
+- [x] point
