@@ -39,12 +39,17 @@ can also have codes withing text with just one back-tick `example`
 
 ## Tables
 Can make simple tables with pipe symbol and minus signs:
-| column 1 | column 2 | column 3 |
-|----------|----------|----------|
-|  item 1  |  item 2  | item 3   |
+ | column 1 | column 2 | column 3 |
+ |----------|----------|----------|
+ |  item 1  |  item 2  | item 3   |
 
 
 ##ordered lists
 1. first item
 1. second item. automatically counts; don't to use different numbers
 2. third item
+
+to do sub item, lead point with 4 spaces
+1. first item
+    2.pointer
+2. second item
